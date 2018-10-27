@@ -1,4 +1,4 @@
-# xylophone
+# Xylophone
 Xylophone is a fun musical instrument anyone can play!
 
 ## Features
